@@ -1,2 +1,4 @@
-module GitSample {
+module GitSample
+{
+	
 }
